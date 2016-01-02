@@ -1,6 +1,10 @@
 Revision history for Perl extension DBIx::Class::TimeStamp::WithTimeZone.
 
 
+0.03  Sat Jan  2 13:53:05 CET 2016
+	- fix build dependencies
+	- include proper perldoc
+
 0.02  Thu May 21 18:00:53 CEST 2015
 	- changed default timezone to GMT
 
